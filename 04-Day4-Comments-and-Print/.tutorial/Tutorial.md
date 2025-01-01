@@ -121,4 +121,3 @@ Parameters 2 to 4 are optional
 
 SHORTCUT VSCODE: CTRL+/ -> To mark multiple line as comment
 
-## [Next Lesson>>](https://replit.com/@codewithharry/06-Day6-Variables-and-Data-Types)
