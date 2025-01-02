@@ -1,5 +1,5 @@
 
-# Day 6 - Variables and Data Types
+# Day 5 - Variables and Data Types
 ## What is a variable?
 Variable is like a container that holds data. Very similar to how our containers in kitchen holds sugar, salt etc
 Creating a variable is like creating a placeholder in memory and assigning it some value. In Python its as easy as writing:
@@ -95,5 +95,3 @@ Output:
 ```python
 {'name': 'Sakshi', 'age': 20, 'canVote': True}
 ```
-
-## [Next Lesson>>](https://replit.com/@codewithharry/07-Day7-Exercise-1-Create-a-Calculator)
